@@ -8,7 +8,7 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react)](https://skillicons.dev)
 
 ## 🌐 Link
-<a href="https://search-app-dejvcodes.netlify.app/">Movie Search App </a>
+<a href="https://movie-search-app-dejvcodes.netlify.app/">Movie Search App </a>
 
 ## License🔐
 [MIT License](LICENSE)
